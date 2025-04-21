@@ -1,17 +1,20 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="第 1 页" id="GM0dqS-wm8BU5xjBhxpw">
-    <mxGraphModel dx="497" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="597" dy="1470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EaCpPoSZm-s5sCB1NcXg-171" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeWidth=0.5;fillColor=light-dark(#f9f0e6, #36210a);strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="118" y="10" width="292" height="160" as="geometry" />
+          <mxGeometry x="118" y="-10" width="312" height="210" as="geometry" />
         </mxCell>
         <mxCell id="EaCpPoSZm-s5sCB1NcXg-173" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=0.5;" vertex="1" parent="1">
           <mxGeometry x="175.5" y="14.879999999999999" width="114.5" height="114.12" as="geometry" />
         </mxCell>
-        <mxCell id="YEpFyWstEGcYiKYhPvnN-4" value="$$&#xa;\Pr[\mathcal{M}(D) \in \mathcal{S}] \leq e^\epsilon \cdot \Pr[\mathcal{M}(D&#39;) \in \mathcal{S}] + \delta&#xa;$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontSize=6;" parent="1" vertex="1">
-          <mxGeometry x="124" y="210" width="290" height="40" as="geometry" />
+        <mxCell id="EaCpPoSZm-s5sCB1NcXg-205" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeWidth=0.5;strokeColor=#808080;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="173" y="137.5" width="240.5" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YEpFyWstEGcYiKYhPvnN-4" value="$$\Pr[\mathcal{M}(D) \in \mathcal{S}] \leq e^\epsilon \cdot \Pr[\mathcal{M}(D&#39;) \in \mathcal{S}] + \delta$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontSize=6;labelBackgroundColor=light-dark(#ffe6cc, #261d00);" parent="1" vertex="1">
+          <mxGeometry x="173" y="168" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EaCpPoSZm-s5sCB1NcXg-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0.5;fillColor=#cce5ff;strokeColor=#36393d;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="59" y="60" width="20" height="20" as="geometry" />
@@ -512,6 +515,54 @@
         <mxCell id="EaCpPoSZm-s5sCB1NcXg-198" value="Gradient" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=6;fontFamily=Times New Roman;labelBackgroundColor=light-dark(#f9f0e6, #ededed);rotation=0;" vertex="1" connectable="0" parent="EaCpPoSZm-s5sCB1NcXg-197">
           <mxGeometry x="-0.2988" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaCpPoSZm-s5sCB1NcXg-201" value="$$&#xa;L_{DP}(w; D) = \frac{1}{n} \sum_{i=1}^{n} \ell(f(x_i), y_i) + \frac{\lambda}{2}\|w\|^2 + \frac{1}{n} b^\top w&#xa;$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="179" y="131.5" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EaCpPoSZm-s5sCB1NcXg-202" value="$$b \sim \mathcal{N}(0, \sigma^2 I)$$" style="text;whiteSpace=wrap;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="175" y="132.5" width="47" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EaCpPoSZm-s5sCB1NcXg-203" value="Differentially Private Training of Feature Extractor" style="text;whiteSpace=wrap;fontSize=8;fontFamily=Times New Roman;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="135" y="-10.5" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EaCpPoSZm-s5sCB1NcXg-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeColor=#4D4D4D;entryX=0.418;entryY=0.813;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=0.5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="202" y="127" as="sourcePoint" />
+            <mxPoint x="202" y="144" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="202" y="129" />
+              <mxPoint x="202" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaCpPoSZm-s5sCB1NcXg-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeColor=#4D4D4D;entryX=0.418;entryY=0.813;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=0.5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="100" as="sourcePoint" />
+            <mxPoint x="360" y="140.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="125.5" />
+              <mxPoint x="360" y="125.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaCpPoSZm-s5sCB1NcXg-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeColor=#4D4D4D;strokeWidth=0.5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="221" y="152" as="sourcePoint" />
+            <mxPoint x="239" y="151.67000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="227" y="152" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EaCpPoSZm-s5sCB1NcXg-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeColor=#4D4D4D;entryX=0.418;entryY=0.813;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=0.5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="168" as="sourcePoint" />
+            <mxPoint x="328" y="173" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="328" y="158" />
+              <mxPoint x="328" y="158" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
