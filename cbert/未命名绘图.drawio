@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3" pages="3">
   <diagram name="第 1 页" id="GM0dqS-wm8BU5xjBhxpw">
     <mxGraphModel dx="168" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -1829,6 +1829,110 @@
         </mxCell>
         <mxCell id="-IZ_Fu88m-SOMOKmd2QV-16" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;RCE Framework Improves Removal Capacity in Terms of Robustness,&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 13px;&quot;&gt;Certified Guarantee and&amp;nbsp;&lt;/b&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Efficiency&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="35" y="-92" width="312" height="46" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="G3C3wcFag4eZIX_WpoB0" name="第 3 页">
+    <mxGraphModel dx="837" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="226" width="390" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="50" width="390" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="370" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-4" value="&lt;font&gt;研究内容与目标&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="390" y="50" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-6" value="机器遗忘现有局限" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="250" y="87.5" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-7" value="难删样本" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="350" y="87.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-10" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;隐私预算快速耗尽&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="415" y="87.5" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-11" value="扰动噪声过大&lt;div&gt;影响模型实用性&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="500" y="87.5" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-13" value="......." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="80" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="370" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-16" value="研究目标" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="270" y="127.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-17" value="提升认证移除能力：鲁棒性、保障性、效率性" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="350" y="127.5" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-19" value="拟采用技术方法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="395" y="226" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="370" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-21" value="研究内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="270" y="167.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-22" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 7px;&quot;&gt;鲁棒机制与高残差样本抑制&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="350" y="167.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-23" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;认证上界的推导与容量分析&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="414" y="167.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-24" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;引入自适应噪声注入机制&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="480" y="167.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-25" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;高效可扩展的更新算法&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="545" y="167.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="260" y="296" width="370" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-28" value="鲁棒优化机制设计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="256" y="303.5" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-29" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;&amp;nbsp;在凸优化中引入 Huber/Tukey-type loss等鲁棒优化方法，突破现有认证移除方法在应对“难以遗忘样本”时稳定性不足的问题&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="364" y="303.5" width="196" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="260" y="256" width="370" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-31" value="提出“删除能力”概念&lt;div&gt;及其量化评估体系&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="259" y="253.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-32" value="推动机器遗忘研究从“能否删除”向&lt;div&gt;“能删多少、删得稳不稳、删得快不快”&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="364" y="262.88" width="196" height="23.12" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="260" y="336" width="370" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-34" value="引入自适应噪声&lt;div&gt;注入机制&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="261" y="333.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-35" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;引入 Smooth Sensitivity 等自适应扰动机制，根据实际梯度残差或样本影响度动态调整扰动强度&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="364" y="343.5" width="196" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="401" width="390" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-37" value="&amp;nbsp;实验验证与评估" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="390" y="401" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="261" y="431" width="370" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EoVMlfehqPcoev9kw4HZ-51" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="675" y="438" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
