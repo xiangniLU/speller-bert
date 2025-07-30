@@ -1510,7 +1510,7 @@
             <mxPoint x="468" y="78.87" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QtTizEaTuPfkcFA3xQyg-50" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=1;align=center;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=12;fillColor=#E1D5E7;labelBorderColor=default;textShadow=1;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+        <mxCell id="QtTizEaTuPfkcFA3xQyg-50" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;align=center;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=12;fillColor=light-dark(#d5e8d4, #203a00);labelBorderColor=default;textShadow=1;fontStyle=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="363" y="-84" width="222" height="102" as="geometry" />
         </mxCell>
         <mxCell id="QtTizEaTuPfkcFA3xQyg-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;endArrow=none;startFill=0;strokeWidth=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" source="QtTizEaTuPfkcFA3xQyg-13" target="QtTizEaTuPfkcFA3xQyg-15" edge="1">
@@ -1797,7 +1797,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-IZ_Fu88m-SOMOKmd2QV-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 127, 255), rgb(43, 130, 218));&quot;&gt;Removal Capacity&lt;/font&gt; in:&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;R&lt;/font&gt;obustness, &lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;C&lt;/font&gt;ertified Guarantee and &lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;E&lt;/font&gt;fficiency&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-IZ_Fu88m-SOMOKmd2QV-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(103, 171, 159), rgb(43, 130, 218));&quot;&gt;Removal Capacity&lt;/font&gt; in:&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(103, 171, 159);&quot;&gt;R&lt;/font&gt;obustness, &lt;font style=&quot;color: rgb(103, 171, 159);&quot;&gt;C&lt;/font&gt;ertified Guarantee and &lt;font style=&quot;color: rgb(103, 171, 159);&quot;&gt;E&lt;/font&gt;fficiency&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="-92" width="290" height="46" as="geometry" />
         </mxCell>
         <mxCell id="mSJzju2RO8Ma9eOYUDwu-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0.106;exitY=0.803;exitDx=0;exitDy=0;exitPerimeter=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" source="mSJzju2RO8Ma9eOYUDwu-3" edge="1">
