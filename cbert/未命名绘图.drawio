@@ -1339,11 +1339,11 @@
         <mxCell id="QPX6vRrv5zY8VwEbZOjD-2" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Frozen&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Embedding Network&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;strokeWidth=0.5;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="210" y="170" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1HAN2xI_Md0TskoVYLak-1" value="&lt;font&gt;&lt;i style=&quot;&quot;&gt;Hard-to-forget &lt;/i&gt;Samples&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;fontStyle=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="59" y="-31.879999999999995" width="120" height="30" as="geometry" />
+        <mxCell id="1HAN2xI_Md0TskoVYLak-1" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Hard-to-forget &lt;/i&gt;Samples&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;fontStyle=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="58" y="-31.879999999999995" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vyxy-ux5oQk2_aRK8Szx-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Typical Samples&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Times New Roman;fontStyle=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="67.63" width="90" height="30" as="geometry" />
+        <mxCell id="Vyxy-ux5oQk2_aRK8Szx-1" value="&lt;font&gt;Typical Samples&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Times New Roman;fontStyle=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="58" y="67.63" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O6Xz6BXj90TG2t2kZxWh-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeWidth=0.5;fillColor=#f9f7ed;strokeColor=#36393d;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="357" y="-92" width="423" height="262" as="geometry" />
